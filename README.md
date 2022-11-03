@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zadinvit
 - 👀 I’m interested in swift, C++, Computer graphics
-- 🌱 I’m currently learning Mitsuba renderer and BTF rendering + image recognition
+- 🌱 I’m currently working as web developer with 3D views (three.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
