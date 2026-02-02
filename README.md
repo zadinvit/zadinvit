@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zadinvit
-- 👀 I’m interested in swift, C++, Computer graphics
-- 🌱 I’m currently working as web developer with 3D views (three.js
+- 👀 I’m interested in threejs and swift, C++, Computer graphics
+- 🌱 I’m currently working as web developer with 3D views (three.js)
+- My favorite frameworks are svelte and react with typescirpt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://vitzadina.cz/
 
